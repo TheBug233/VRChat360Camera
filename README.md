@@ -9,7 +9,7 @@ First of all, you need an avatar, you can model it yourself, or buy it from BOOT
 * If you need to record monocular 2D360° video, it is recommended to create a 7680x3840 virtual display with the [virtual display program](www.amyuni.com/downloads/usbmmidd_v2.zip), and then set VRChat to start on the virtual display.   
 If your computer configuration is not capable of this resolution, you can change the resolution to 5.7k (5760x2880), 4k (4096x2048), 2k (2160x1080), etc.   
 according to the actual situation, and you need to keep the ratio of vertical and horizontal pixels at 2:1  
-* If you need to record binocular 3D 360° video, it is recommended to create a 7680x7680 virtual display with a [virtual display program]](www.amyuni.com/downloads/usbmmidd_v2.zip), and then set VRChat to start on the virtual display.   
+* If you need to record binocular 3D 360° video, it is recommended to create a 7680x7680 virtual display with a [virtual display program](www.amyuni.com/downloads/usbmmidd_v2.zip), and then set VRChat to start on the virtual display.   
 If your computer configuration is not capable of this resolution, you can change the resolution to 5.1k (5120x5120), 4k (4096x4096), 2k (2160x2160), etc.   
 according to the actual situation, and you need to keep the ratio of vertical and horizontal pixels at 1:1.  
 For binocular 3D, I don't recommend using a resolution lower than 5120, the picture will be very bad.
