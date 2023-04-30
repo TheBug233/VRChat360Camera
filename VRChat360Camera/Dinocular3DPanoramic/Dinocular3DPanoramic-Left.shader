@@ -1,4 +1,4 @@
-﻿Shader "欧阳蓦然🍀/Dinocular3DPanoramic-Left"
+﻿Shader "TheBug233/Dinocular3DPanoramic-Left"
 {
 	Properties
 	{

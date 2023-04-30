@@ -1,4 +1,4 @@
-﻿Shader "欧阳蓦然🍀/Monocular2DPanoramic"
+﻿Shader "TheBug233/Monocular2DPanoramic"
 {
 	Properties
 	{
